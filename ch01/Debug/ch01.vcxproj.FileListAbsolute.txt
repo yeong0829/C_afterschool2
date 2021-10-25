@@ -1,0 +1,2 @@
+C:\study C\ch01\Debug\ch01.exe
+C:\study C\ch01\Debug\ch01.pdb
