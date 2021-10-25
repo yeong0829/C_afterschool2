@@ -1,0 +1,2 @@
+C:\study C\ch02\Debug\ch02.exe
+C:\study C\ch02\Debug\ch02.pdb
